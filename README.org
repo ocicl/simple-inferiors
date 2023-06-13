@@ -1,0 +1,10 @@
+* simple-inferiors
+
+A very simple common lisp library to use inferior processes.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Shinmera/simple-inferiors.git   |
+| commit  | d3750a6  |
+| systems | simple-inferiors |
+|---------+-------------------------------------------|
+
