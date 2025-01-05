@@ -2,9 +2,8 @@
 
 A very simple common lisp library to use inferior processes.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/Shinmera/simple-inferiors.git   |
-| commit  | 056ee77  |
-| systems | simple-inferiors |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/Shinmera/simple-inferiors.git |
+| commit  | 90de3c8                                              |
+| systems | simple-inferiors                                     |
+|---------+------------------------------------------------------|
