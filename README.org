@@ -6,4 +6,4 @@ A very simple common lisp library to use inferior processes.
 | source  | git:https://codeberg.org/shinmera/simple-inferiors.git |
 | commit  | be8c7a7                                              |
 | systems | simple-inferiors                                     |
-|---------+------------------------------------------------------|
+|---------+------------------------------------------------------| 
